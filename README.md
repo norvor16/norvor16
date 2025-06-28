@@ -72,3 +72,8 @@ That’s why I’m working on projects like:
 > I blend **tax accounting** with tech — and still cook a **mean Jollof** while debugging CSS!
 
 ---
+### 📊 GitHub Stats
+
+![Miriam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=norvor16&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norvor16&layout=compact&theme=radical)
