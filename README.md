@@ -9,6 +9,8 @@ I'm a passionate **Junior Data Scientist** and aspiring **Front-End Developer** 
 - 🌍 Languages: **Python, SQL, HTML/CSS, JavaScript (learning), English, Twi**
 - 📫 How to reach me: **vilmiriam@gmail.com**
 - ⚡ Fun fact: **I blend tax accounting with tech — and still find time to cook a mean jollof!**
+
+- 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
