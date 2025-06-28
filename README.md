@@ -56,14 +56,14 @@ That’s why I’m working on projects like:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-
+---
 
 ## 📫 Let's Connect
 
-- ✉️ **Email**: vilmiriam@gmail.com  
-- 🐦 **Twitter**: https://x.com/miriamnorvor4?s=21 
-- 💼 **LinkedIn**: www.linkedin.com/in/miriam-norvor  
-- 🌐 **Website**: https://github.com/norvor16
+- ✉️ **Email**: miriam.norvor@gmail.com  
+- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
+- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🌐 **Website**: [norvor.github.io](https://norvor.github.io)
 
 ---
 
