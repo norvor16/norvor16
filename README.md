@@ -61,9 +61,9 @@ That’s why I’m working on projects like:
 ## 📫 Let's Connect
 
 - ✉️ **Email**: miriam.norvor@gmail.com  
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌐 **Website**: [norvor.github.io](https://norvor.github.io)
+- 🐦 **Twitter**: [@yourhandle](https://x.com/miriamnorvor4?s=21)  
+- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](www.linkedin.com/in/miriam-norvor)  
+- 🌐 **Website**: [norvor.github.io](https://github.com/norvor16)
 
 ---
 
