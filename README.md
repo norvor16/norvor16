@@ -77,3 +77,19 @@ That’s why I’m working on projects like:
 ![Miriam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=norvor16&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norvor16&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=norvor16&theme=radical)
+
+![GitHub Stars](https://img.shields.io/github/stars/norvor16?style=for-the-badge)
+
+## 🏆 GitHub Highlights
+
+- 🔥 100+ Contributions in the last month
+- ⭐ Total Stars: ![GitHub Stars](https://img.shields.io/github/stars/norvor16?style=social)
+- 📘 Top Languages: Python, HTML, CSS, JavaScript
+
+### 📊 GitHub Stats
+
+![Miriam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=norvor16&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norvor16&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=norvor16&theme=radical)
