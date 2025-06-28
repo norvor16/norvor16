@@ -73,7 +73,7 @@ That’s why I’m working on projects like:
 - ✉️ **Email**: vilmiriam@gmail.com  
 - 🐦 **Twitter**: https://x.com/miriamnorvor4?s=21 
 - 💼 **LinkedIn**: www.linkedin.com/in/miriam-norvor  
-- 🌐 **Website**: [norvor.github.io](https://norvor.github.io)
+- 🌐 **Website**: https://github.com/norvor16
 
 ---
 
