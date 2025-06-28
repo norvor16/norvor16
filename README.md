@@ -56,17 +56,7 @@ That’s why I’m working on projects like:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
----
 
-## 🛠 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **📊 BI Dashboard** | Power BI sales dashboard with drill-down filters and visuals. | Power BI, Excel |
-| **💻 Portfolio Website** | Responsive personal portfolio using HTML & CSS. | HTML, CSS |
-| **📂 GitHub Profile README** | This very page, crafted to show my journey & skills! | Markdown |
-
----
 
 ## 📫 Let's Connect
 
